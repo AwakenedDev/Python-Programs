@@ -1,4 +1,4 @@
-# Python-Programs
+# Python Programs
 
 Program 1: Computes Fobonacci numbers recursively  
 Program 2: Implements specific command on a list of floating-point numbers  
